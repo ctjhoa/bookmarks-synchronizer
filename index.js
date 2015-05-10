@@ -1,4 +1,5 @@
 var self = require('sdk/self');
+var git = require('git');
 
 var bmsvc = Components.classes["@mozilla.org/browser/nav-bookmarks-service;1"]
   .getService(Components.interfaces.nsINavBookmarksService);
