@@ -1,0 +1,12 @@
+{
+  "title": "Bookmarks synchronizer",
+  "name": "bookmarks-synchronizer",
+  "version": "0.0.1",
+  "description": "A free bookmarks synchronizer using a git repo",
+  "main": "index.js",
+  "author": "Camille TJHOA",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
